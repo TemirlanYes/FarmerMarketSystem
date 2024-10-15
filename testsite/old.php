@@ -1,6 +1,6 @@
 <?php
 // Create an array object
-$arr = array(1, 3,3,8);
+$arr = array(1, 9,9,9);
 
 // Sort function to sort
 // array elements
@@ -8,5 +8,5 @@ $arr = array(1, 3,3,8);
 
 // Prints the sorted array
 print_r($arr);
-echo "Testsite example";
+echo "chai pei example";
 ?>
