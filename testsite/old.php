@@ -8,5 +8,5 @@ $arr = array(1, 9,9,9);
 
 // Prints the sorted array
 print_r($arr);
-echo "chai pei example";
+echo "sort  example";
 ?>
