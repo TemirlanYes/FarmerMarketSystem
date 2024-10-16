@@ -1,7 +1,7 @@
 <?php
 // Create an array object
 $arr = array(1, 9,9,10,10);
-
+$var = "PHP?";
 // Sort function to sort
 // array elements
 //sort($arr);
