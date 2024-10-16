@@ -1,6 +1,6 @@
 <?php
 // Create an array object
-$arr = array(1, 9,9,9);
+$arr = array(1, 9,9,10,10);
 
 // Sort function to sort
 // array elements
