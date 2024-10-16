@@ -3,7 +3,7 @@ session_start(); // Start the session
 
 $servername = "localhost";
 $username = "root"; // Your MySQL username
-$password = ""; // Your MySQL password
+$password = "root123456"; // Your MySQL password
 $dbname = "FarmersMarketDatabase"; // Your database name
 
 // Create connection

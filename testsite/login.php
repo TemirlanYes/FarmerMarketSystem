@@ -3,7 +3,7 @@ session_start(); // Start session
 
 $servername = "localhost";  // Database server
 $username = "root";          // Database username
-$password = "";              // Database password
+$password = "root123456";              // Database password
 $dbname = "FarmersMarketDatabase"; // Database name
 
 // Create connection
