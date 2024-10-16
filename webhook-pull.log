@@ -63,3 +63,38 @@ warning: unable to access '/Users/temiryes/.config/git/attributes': Permission d
 
 Already up to date.
 
+From https://github.com/TemirlanYes/FarmerMarketSystem
+   8ccb08c..09d4777  master     -> origin/master
+warning: unable to access '/Users/temiryes/.config/git/ignore': Permission denied
+warning: unable to access '/Users/temiryes/.config/git/attributes': Permission denied
+Updating 8ccb08c..09d4777
+Fast-forward
+warning: unable to access '/Users/temiryes/.config/git/attributes': Permission denied
+warning: unable to access '/Users/temiryes/.config/git/attributes': Permission denied
+ testsite/old.php | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+From https://github.com/TemirlanYes/FarmerMarketSystem
+   09d4777..fa32aa3  master     -> origin/master
+warning: unable to access '/Users/temiryes/.config/git/attributes': Permission denied
+warning: unable to access '/Users/temiryes/.config/git/ignore': Permission denied
+warning: unable to access '/Users/temiryes/.config/git/attributes': Permission denied
+Updating 09d4777..fa32aa3
+Fast-forward
+warning: unable to access '/Users/temiryes/.config/git/attributes': Permission denied
+warning: unable to access '/Users/temiryes/.config/git/attributes': Permission denied
+ testsite/old.php | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+From https://github.com/TemirlanYes/FarmerMarketSystem
+   fa32aa3..5f072af  master     -> origin/master
+warning: unable to access '/Users/temiryes/.config/git/attributes': Permission denied
+warning: unable to access '/Users/temiryes/.config/git/ignore': Permission denied
+warning: unable to access '/Users/temiryes/.config/git/attributes': Permission denied
+Updating fa32aa3..5f072af
+Fast-forward
+warning: unable to access '/Users/temiryes/.config/git/attributes': Permission denied
+warning: unable to access '/Users/temiryes/.config/git/attributes': Permission denied
+ testsite/old.php | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
