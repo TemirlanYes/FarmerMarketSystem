@@ -98,3 +98,20 @@ warning: unable to access '/Users/temiryes/.config/git/attributes': Permission d
  testsite/old.php | 2 +-
  1 file changed, 1 insertion(+), 1 deletion(-)
 
+Already up to date.
+
+Already up to date.
+
+From https://github.com/TemirlanYes/FarmerMarketSystem
+   a7fb61c..debd551  master     -> origin/master
+warning: unable to access '/Users/temiryes/.config/git/ignore': Permission denied
+warning: unable to access '/Users/temiryes/.config/git/attributes': Permission denied
+Updating a7fb61c..debd551
+Fast-forward
+warning: unable to access '/Users/temiryes/.config/git/attributes': Permission denied
+warning: unable to access '/Users/temiryes/.config/git/attributes': Permission denied
+ site url (changes) | 3 +--
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+
+Already up to date.
+
